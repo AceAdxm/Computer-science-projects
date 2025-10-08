@@ -1,4 +1,4 @@
-# Computer-science-projects
+# Computer-science-projects (PROJECTS IN MAIN)
 All the Computer science projects i have done / are working on (In the Langauge of python)
 
 <!-- README.md -->
