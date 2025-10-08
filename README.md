@@ -40,5 +40,5 @@ All the Computer science projects i have done / are working on (In the Langauge 
 ---
 
 <p align="center">
-  ✨ Thanks for stopping by! Feel free star my repo !!!
+  ✨ Thanks for stopping by! Feel free to star my repo !!!
 </p>
