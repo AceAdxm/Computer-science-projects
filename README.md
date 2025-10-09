@@ -36,9 +36,6 @@ All the Computer science projects I have done / am working on (in the language o
 #### 🎓 [Main School Projects](https://github.com/AceAdxm/Computer-science-projects/tree/main)
 These are my **core academic projects**, including coursework, assignments, and structured programming challenges from my Computer Science studies.
 
-#### 🧩 [Side Projects & Learning](https://github.com/AceAdxm/Computer-science-projects/tree/Side-projects-and-learning)
-This branch contains my **personal experiments**, learning exercises, and small projects I build in my free time to explore new concepts and technologies.
-
 ---
 
 ### ⚙️ Tech Stack
