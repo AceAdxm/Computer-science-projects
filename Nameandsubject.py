@@ -1,0 +1,5 @@
+name = input("What is your name")
+name = input()
+print(f"Hello {name}")
+fav1 = input("What is your favorite subject:")
+print(f"{name} yout fav subject is", fav1)
